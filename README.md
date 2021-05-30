@@ -4,6 +4,7 @@
 
 ### 課程內容：
 
+* NLTK簡介
 * 如何斷詞？中文斷詞？英文斷詞？
 * 如何返回詞性 (POS, part-of-speech tagging)？
 * 如何找出句子中的名詞 (Named Entities)？
